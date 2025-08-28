@@ -1,4 +1,4 @@
-#CrediControl
+CrediControl
 
 CrediControl é um sistema voltado para a gestão de pagamentos antecipados de clientes, oferecendo controle preciso de créditos, acompanhamento de transações e organização financeira eficiente para lojas e pequenos negócios.
 
